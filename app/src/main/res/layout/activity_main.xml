@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/menu"
+        android:text="@string/Numbers"
+        android:background="@android:color/holo_orange_dark" />
+    <TextView
+        android:id="@+id/family"
+        android:text="@string/familyMembers"
+        style="@style/menu"
+        android:background="@android:color/holo_green_dark" />
+    <TextView
+        android:id="@+id/colors"
+        android:text="@string/colors"
+        style="@style/menu"
+        android:background="@android:color/holo_purple" />
+    <TextView
+        android:id="@+id/phrases"
+        android:text="@string/phrases"
+        style="@style/menu"
+        android:background="@android:color/holo_blue_light" />
+
+</LinearLayout>

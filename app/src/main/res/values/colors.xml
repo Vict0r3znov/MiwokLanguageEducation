@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4e342e</color>
+    <color name="colorPrimaryDark">#4b2c20</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tan">#fff7da</color>
+    <color name="textColor">#ffffff</color>
+    <color name="numbers_category">@android:color/holo_orange_dark</color>
+    <color name="family_members_category">@android:color/holo_green_dark</color>
+    <color name="color_category">@android:color/holo_purple</color>
+    <color name="phrases_category">@android:color/holo_blue_light</color>
+</resources>
